@@ -1,0 +1,4 @@
+{
+    "siri": {"name": "siri", "product": "apple"}, 
+    "alexa": {"name": "alexa", "product": "amazon"}
+}
